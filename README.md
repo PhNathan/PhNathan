@@ -28,7 +28,7 @@
 ![image](https://img.shields.io/badge/jQuery-491b9e?style=for-the-badge&logo=jquery&logoColor=white)
 ![image](https://img.shields.io/badge/Bootstrap-491b9e?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-# 🖍 Prototype : 
+## 🖍 Prototype : 
 
 ![image](https://img.shields.io/badge/Figma-491b9e?style=for-the-badge&logo=figma&logoColor=white)
 ![image](https://img.shields.io/badge/Adobe%20XD-491b9e?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
