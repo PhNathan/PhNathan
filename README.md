@@ -1,10 +1,8 @@
-## Hi people 👋
+## Hey guys i'm Phelipe 👋:grinning:
 
 
 <img src="https://pngimg.com/uploads/rockets/small/rockets_PNG101062.png" align="right">
 
-
-#### My name is Phelipe Nathan :grinning:
 
 
   I'm a young website developer specializing in HTML, CSS, JavaScript and PHP. I like to participate in front and back end development projects. 👨‍💻
@@ -40,10 +38,23 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-491b9e?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phelipe-nathan-768a14203/)](https://www.linkedin.com/in/phelipe-nathan-768a14203/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-491b9e?style=flat-square&logo=Gmail&logoColor=white&link=mailto:phelipenathandf8@gmail.com)](mailto:phelipenathandf8@gmail.com)
 
+<!--
+<a href="https://github.com/PhNathan/?tab=follow">
+    <img src="https://img.shields.io/github/followers/PhNathan?label=Follow&style=social" />
+  </a>
+-->
 ## 📊 Status : 
-<p align="center">
-  <a href="https://github.com/PhNathan"><img src="https://github-readme-stats.vercel.app/api?username=PhNathan&&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"  width="400"></a> 
-<a href="https://github.com/PhNathan"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhNathan&layout=compact&theme=midnight-purple" width="400" ></a>
+<div align="center">
+<img
+  align="left"
+  height="200"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhNathan&count_private=true&show_icons=true&custom_title=GitHub%20Status&hide=issues&title_color=6633cc&icon_color=f7df1e&bg_color=ffffff00&text_color=7159c1&hide_border=true"
+/>
+<img
+  align="left"
+  height="200"
+  src="https://github-readme-stats.vercel.app/api?username=PhNathan&count_private=true&show_icons=true&custom_title=GitHub%20Status&hide=issues&title_color=6633cc&icon_color=f7df1e&bg_color=ffffff00&text_color=7159c1&hide_border=true"
+/>
 </p>
 
 
