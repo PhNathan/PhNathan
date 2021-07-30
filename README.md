@@ -1,13 +1,15 @@
 ## Hey guys i'm Phelipe 👋:grinning:
 
 
+
+
 <img src="https://pngimg.com/uploads/rockets/small/rockets_PNG101062.png" align="right">
 
 
 
   I'm a young website developer specializing in HTML, CSS, JavaScript and PHP. I like to participate in front and back end development projects. 👨‍💻
 
- - I am currently attending the 5th (fifth) semester of the Systems Development Analysis course at Centro Universitário de Brasília - Ceub. 👨‍🎓🤓
+ - I am currently attending the 5th (fifth) semester of the Systems Development Analysis course at Brasília University Center - Ceub. 👨‍🎓🤓
  - Front-end developer. 💻🚀
  - I'm learning: Php, JavaScript, UX, UI. 📚
 
