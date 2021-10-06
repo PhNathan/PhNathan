@@ -21,7 +21,6 @@
 ![image](https://img.shields.io/badge/HTML5-491b9e?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-491b9e?style=for-the-badge&logo=javascript&logoColor=white)
 ![image](https://img.shields.io/badge/CSS-491b9e?&style=for-the-badge&logo=css3&logoColor=white)
-![image](https://img.shields.io/badge/PHP-491b9e?style=for-the-badge&logo=php&logoColor=white)
 
 
 ## 🚀 Frameworks :
