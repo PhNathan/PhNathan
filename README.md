@@ -11,7 +11,7 @@
 
  - I am currently attending the last semester of the Systems Development Analysis course at Brasília University Center - Ceub. 👨‍🎓🤓
  - Front-end developer. 💻🚀
- - I'm learning: Php, JavaScript, UX, UI. 📚
+ - I'm learning: JavaScript, UX and UI. 📚
 
  #### 🎯 Objective: Evolve my skills and become a fullstack developer.
  ##
