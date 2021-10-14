@@ -7,7 +7,7 @@
 
 
 
-  I'm a young website developer specializing in HTML, CSS, JavaScript and PHP. I like to participate in front and back end development projects. 👨‍💻
+  I'm a young front end developer specializing in HTML, CSS, JavaScript. I like to participate in both the front end and prototyping projects. 👨‍💻
 
  - I am currently attending the last semester of the Systems Development Analysis course at Brasília University Center - Ceub. 👨‍🎓🤓
  - Front-end developer. 💻🚀
