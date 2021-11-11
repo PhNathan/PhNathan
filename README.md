@@ -24,7 +24,6 @@
 
 
 ## 🚀 Frameworks :
-![image](https://img.shields.io/badge/jQuery-491b9e?style=for-the-badge&logo=jquery&logoColor=white)
 ![image](https://img.shields.io/badge/Bootstrap-491b9e?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## 🖍 Prototype : 
