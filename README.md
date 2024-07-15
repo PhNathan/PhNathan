@@ -1,4 +1,4 @@
-## Hey guys i'm Phelipe 👋:grinning:
+## Hey guys i'm Phelipe 👋
 
 
 
